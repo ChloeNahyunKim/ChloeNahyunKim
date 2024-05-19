@@ -16,7 +16,7 @@ I'm a third-year Computer Science student with a passion for cybersecurity. Welc
 
 - **Programming Languages**: Python, C, Julia, RISC-V
 - **Web Development**: React, JavaScript, HTML5, CSS3
-- **Databases**: SQLite, MongoDB
+- **Databases**: SQL, MongoDB
 - **Tools and Technologies**:  MS Office, Jira, Wireshark, tcpdump, Git, VS Code
 
 ## Contact Me
