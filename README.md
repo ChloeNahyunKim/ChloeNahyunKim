@@ -7,10 +7,11 @@ I'm a third-year Computer Science student with a passion for cybersecurity. Welc
 - 🎓 **Education**: Third-year CS student at the University of Alberta.
 - 📜 **Certifications**:
   - Google Cybersecurity Professional Certificate         ***February 2024***
-  - Currently pursuing CompTIA Security+ certification    ***Estimated Completion September 2024***
+  - Currently pursuing CompTIA Security+ certification    ***Estimated Completion March 2025***
 - 💻 **Roles**:
-  - Social Media Coordinator and Challenge Developer at the University of Alberta's cybersecurity club CHADS creating engaging, informative posts and educational cybersecurity challenges.
+  - Chancellor and Social Media Coordinator at the University of Alberta's cybersecurity club CHADS
   - [CHADS on Instagram](https://www.instagram.com/chads_ualberta/)
+  - Founder and President at Women in Cybersecurity University of Alberta Student Chapter
 
 ## Skills
 
